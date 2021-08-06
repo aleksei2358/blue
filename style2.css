@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: navy;
+}
+h1 {
+    color: white;
+}
+a {
+    color: white;
+}
+li {
+    color: white;
+}
+.link-header {
+    text-decoration: 0;
+}
