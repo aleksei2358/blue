@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: pink;
+}
+h1 {
+    color: grey;
+}
+p {
+    color: grey;
+}
+.link-text:hover {
+    color: white;
+}
+.link-header {
+    text-decoration: 0;
+}
